@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Manrope',sans-serif;
+    color: white;
+
+}
+
+body{
+    background-color: black;
+    }
+
+        
+
+@keyframes color-change{
+0% { color: red; }
+50% { color: blue; }
+100% { color: gold; }
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.about-contact{
+    color: black !important;
+    background: white;
+}
+
+form{
+    margin:auto;
+    width: 95%;
+}
+
+input{
+    width:100%;
+}
+
+li{
+    list-style: none;
+    margin: auto;
+}
+
+a{
+    text-decoration:none;
+}
+
+span{
+    font-size: 25px;
+}
+
